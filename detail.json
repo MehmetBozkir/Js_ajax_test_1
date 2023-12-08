@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mehmet",
+    "age": 99,
+    "isStudent": true,
+    "areasofinterest": {
+      "first": "html",
+      "second": "css",
+      "third": "javascript"
+    },
+    "finally": "Junior Front end Dev"
+  },
+  {
+    "name": "Salih",
+    "age": 100,
+    "isStudent": false,
+    "areasofinterest": {
+      "first": "Python",
+      "second": "assembly",
+      "third": "django"
+    }
+  }
+]
